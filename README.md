@@ -1,2 +1,4 @@
 # hello-world
-Github tutorial
+Name: Jeff Neikirk
+Student at TN Tech
+Major: CSC
